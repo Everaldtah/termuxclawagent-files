@@ -1,0 +1,15 @@
+{
+  "id": "033ff034-8efb-4e63-8221-4fad0278ade2",
+  "mode": "chat",
+  "status": "running",
+  "message": "Hey",
+  "sessionId": "b7ad2c1b-5800-4dec-b6e6-1236196b94c1",
+  "provider": "Nvidia",
+  "model": "openai/gpt-oss-120b",
+  "created": 1779408733535,
+  "updated": 1779408733535,
+  "rounds": [],
+  "reply": null,
+  "error": null,
+  "durationMs": null
+}
