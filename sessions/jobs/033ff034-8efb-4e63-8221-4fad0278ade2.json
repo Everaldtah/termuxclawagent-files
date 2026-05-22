@@ -7,8 +7,14 @@
   "provider": "Nvidia",
   "model": "openai/gpt-oss-120b",
   "created": 1779408733535,
-  "updated": 1779408733535,
-  "rounds": [],
+  "updated": 1779408735217,
+  "rounds": [
+    {
+      "round": 1,
+      "thinking": "",
+      "toolCalls": []
+    }
+  ],
   "reply": null,
   "error": null,
   "durationMs": null
